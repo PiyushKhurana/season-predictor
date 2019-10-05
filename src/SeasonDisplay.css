@@ -5,15 +5,15 @@
 }
 .icon-right{
     position: absolute;
-    bottom:10px;
-    right:10px;
+    bottom:12px;
+    right:12px;
 
 }
 .season-display.winter i{
-    color: blue;
+    color: red;
 }
 .season-display.summer i{
-    color: red;
+    color: blue;
 }
 
 .season-display{
